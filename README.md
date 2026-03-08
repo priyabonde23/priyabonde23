@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Priya Bonde
 
-<!--
-**priyabonde23/priyabonde23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence and Data Science Student  
+🤖 Aspiring AI Engineer  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Machine Learning
+- Deep Learning
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- Calculator Mini Project
+- Python Practice Programs
+
+## 🛠 Tools
+- GitHub
+- VS Code
+- Python
+
+## 🎯 Goal
+To become an AI Engineer and build intelligent systems.
