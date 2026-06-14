@@ -12,6 +12,9 @@
 ## 💻 Projects
 - Calculator Mini Project
 - Python Practice Programs
+- Hotel_Mess_Food_Waste_Management
+- Food_Order_System
+- VISION-2031
 
 ## 🛠 Tools
 - GitHub
