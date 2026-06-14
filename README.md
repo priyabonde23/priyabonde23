@@ -17,6 +17,6 @@
 - GitHub
 - VS Code
 - Python
-
+- Linkedin
 ## 🎯 Goal
 To become an AI Engineer and build intelligent systems.
