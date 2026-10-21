@@ -21,10 +21,6 @@
     <a href="mailto:bondepriya520@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    &nbsp;
-    <a href="https://priyabonde23.github.io/Priya-Bonde-AI-Engineer-Portfolio" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-    </a>
   </p>
 
 </div>
@@ -73,7 +69,6 @@ mindset: "Turning raw data into actionable intelligence 💡 ☕"
 | 🥗 **[Hostel Food Waste Management](https://github.com/priyabonde23/Hostel-Mess-Food-Waste-Management)** | Predicts food demand & consumption patterns to prevent mess waste | `Python` `Jupyter` `ML` |
 | ⚡ **[TubePulse](https://github.com/priyabonde23/TubePulse)** | Scalable and modern video/content analytics web application | `TypeScript` `Web` |
 | 🍔 **[Food Order System](https://github.com/priyabonde23/Food_Order_System)** | Real-time digital food ordering system with live database bill generation | `Firebase` `JavaScript` |
-| 🌐 **[AI Engineer Portfolio](https://github.com/priyabonde23/Priya-Bonde-AI-Engineer-Portfolio)** | Responsive personal showcase portfolio for projects & certifications | `HTML/CSS` `Portfolio` |
 
 </div>
 
