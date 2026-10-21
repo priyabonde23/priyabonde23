@@ -1,21 +1,27 @@
 <div align="center">
 
   <!-- 🌊 DYNAMIC CAPSULE WAVE HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Priya%20Bonde&fontSize=42&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Priya Bonde Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Priya%20Bonde&fontSize=42&fontAlignY=38&desc=AI%20and%20Data%20Science%20Student%20-%20Aspiring%20AI%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Priya Bonde Header" />
+
+  <br/><br/>
 
   <!-- ⚡ NEON TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=580&lines=B.Tech+AI+%26+Data+Science+Student+🎓;Building+Aura+AI+Chatbot+🤖;Full+Stack+MERN+%26+TypeScript+Developer+💻;Predictive+Data+Science+%26+ML+Explorer+📊;Turning+Data+Into+Impactful+Solutions+✨" alt="Typing SVG" />
+  <a href="https://github.com/priyabonde23">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=B.Tech+AI+and+Data+Science+Student;Building+Aura+AI+Chatbot;Full+Stack+MERN+and+TypeScript+Developer;Turning+Data+Into+Impactful+AI+Solutions" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
 
   <!-- 🌐 SOCIAL CONNECT BADGES -->
   <p align="center">
     <a href="https://linkedin.com/in/priyabonde23" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:bondepriya520@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
     <a href="https://priyabonde23.github.io/Priya-Bonde-AI-Engineer-Portfolio" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
     </a>
