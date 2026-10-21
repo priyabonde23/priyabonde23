@@ -12,8 +12,12 @@
 
   <br/><br/>
 
-  <!-- 🌐 SOCIAL CONNECT BADGES -->
+  <!-- 🌐 SOCIAL & PORTFOLIO CONNECT BADGES -->
   <p align="center">
+    <a href="https://priyabonde23.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
     <a href="https://linkedin.com/in/priyabonde23" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
